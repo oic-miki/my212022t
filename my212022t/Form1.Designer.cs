@@ -70,12 +70,13 @@ namespace my212022t
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.SystemColors.Info;
             this.button1.Location = new System.Drawing.Point(181, 220);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(82, 24);
             this.button1.TabIndex = 5;
             this.button1.Text = "ログイン";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             // 
             // Form1
             // 
